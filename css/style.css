@@ -1,0 +1,25 @@
+.box{
+    height: 50px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+.boxx{
+    height: 50px;
+    background-color:cyan;
+    margin-bottom: 10px;
+}
+h3{
+    text-align: center;
+}
+.b_height{
+    height: 100px;
+    background-color: #ddd;
+}
+.border_box{
+  height: 100px;
+  width: 100px;
+    
+}
+.boxxx{
+  background-color: royalblue;
+}
